@@ -1,31 +1,25 @@
 ---
 title: Linus
 tags:
-- Curabitur
-- Dolor
-- Id
-- Facilisis
-desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula gravida felis et dapibus.
+-  Introduction
+desc: An Introduction to both the author and his thoughts.
 layout: post
 ---
 
-Curabitur dolor nisi, consectetur id ipsum et, facilisis aliquet est. Aenean nec iaculis nisi. Quisque non nisl eu leo ultrices rhoncus. Pellentesque at euismod est. Pellentesque ac nisi semper, molestie risus vitae, ullamcorper augue. Fusce non eleifend massa, vel mattis urna. Morbi facilisis rutrum eleifend.
-<!-- more -->
- Mauris a molestie neque. Aliquam non malesuada nisi, a sodales purus. Nam molestie faucibus sapien eu euismod. Sed scelerisque ornare euismod. In tincidunt est vel pharetra convallis. Praesent vitae nisi odio.
 
-## Nunc
+We often find ourselves seeking to defend ourselves against a host of people who aren't even that antagonistic against our causes.
+I find myself struggling to explain who I am to an unthinking audience. Who am I and what do I do feeds deeply into what I seek to cause, especially on a greater level than myself.
 
-```html
-<html>
-    <head>
-    </head>
-    <body>
-    </body>
-</html>
-```
+There's a lot that goes into what we seek to do. Facets of who we are shine through in our ethos, our pathos and our own logos. However, I think that these existential ways that we subscribe to our arguments do not define us. Instead, it is a greater look at who we are and where we place our own values.
 
-## Maecenas
-Maecenas ex dolor, tincidunt volutpat molestie et, bibendum sed turpis. Fusce dictum dui massa, sed lobortis risus consectetur eget. Quisque ornare quis tortor nec blandit. Donec pretium hendrerit tincidunt. Nulla convallis placerat efficitur. Curabitur tristique nibh vitae suscipit molestie. In commodo quam purus, eget auctor sapien auctor id.
+Indeed, it's looking to the future that describes who we've been in the past.
 
-## Aenean
-Aenean molestie, augue at semper imperdiet, ante metus cursus turpis, vitae placerat ligula velit at lacus. Nunc magna elit, sollicitudin et elit nec, hendrerit porta odio. Aliquam congue, lacus non sodales venenatis, lectus justo tincidunt leo, scelerisque ultricies libero nisi sed lorem. Donec eu facilisis eros. Nunc eu diam lacus. Ut at leo ornare, pulvinar lacus a, cursus dolor. Sed tincidunt dignissim purus, at blandit ante. Duis condimentum dui quis pretium vehicula. Ut fermentum justo vitae mattis dapibus. Quisque vulputate nunc sem, at dignissim lectus interdum vel. Donec finibus augue sit amet ipsum convallis, a sollicitudin ante convallis. Pellentesque auctor felis lacus, vitae mollis orci bibendum at. Nulla feugiat eu ipsum ut ullamcorper. Mauris viverra mi bibendum mollis egestas.
+For now at the very least, these are my five values:
+
+1. Create confidence.
+2. Minimize frustration.
+3. Seek to understand.
+4. Bring joy.
+5. Have a spirit of generosity
+
+Let that demand an answer. Let that be the story of our time.
