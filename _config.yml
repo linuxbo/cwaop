@@ -1,0 +1,22 @@
+---
+title: Creative Writing and Other Pursuits
+baseurl: "/cwaop"
+desc: A minimal site for our creative endeavours
+about:
+image:
+excerpt_separator: "<!-- more -->"
+markdown: kramdown
+gems:
+- jekyll-paginate
+
+plugins:
+- jekyll-paginate
+
+exclude:
+  - .jekyll-metadata
+  - README.md
+  - CNAME
+paginate: 5
+paginate_path: "/:num/"
+highlighter: rouge
+permalink: pretty
